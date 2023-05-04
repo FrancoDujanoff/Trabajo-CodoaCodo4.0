@@ -1,3 +1,7 @@
+html{
+    overflow-x: hidden;
+}
+
 .carousel-caption {
     position: absolute;
     top: 50%;
