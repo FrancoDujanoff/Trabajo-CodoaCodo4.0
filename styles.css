@@ -11,3 +11,13 @@ html{
     left: auto;
     text-align: right;
 }
+
+.card:hover{
+    transform: translateY(-5px);
+    transition: all 0.2s ease-in-out;
+    background-color:rgb(226, 220, 209);
+    -webkit-transform: translateX(-5px);
+    -moz-transform: translateX(-5px);
+    -ms-transform: translateX(-5px);
+    -o-transform: translateX(-5px);
+}
